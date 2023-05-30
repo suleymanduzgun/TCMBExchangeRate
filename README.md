@@ -4,6 +4,11 @@ Türkiye Cumhuriyeti Merkez Bankası Döviz Kurları
 Şimdilik iki tane servisi mevcut. Bir tanesi MB sitesinde listenene para birimlerinin listesini getiren servis, diğeri de bu para birimlerinin TL karşısındaki bugünkü kur listesini getiren servis.
 Talep edilen gün bir resmi tatil gününe denk gelirse boş data döner. Geliştirilmeye açık, destek olmak isteyenler katkıda bulunabilirler.
 
+Nuget Sayfası:
+
+    https://www.nuget.org/packages/TCMBExchangeRate/
+
+
 KURULUM
 
 1 - Nuget paketi kurulumu yapılır.
